@@ -1,14 +1,6 @@
-# macOS system files
 .DS_Store
-
-# Python virtual environment
 venv/
-
-# Python cache
 __pycache__/
 *.pyc
-
-# Optional: data files
 attendance.csv
 information.db
-
